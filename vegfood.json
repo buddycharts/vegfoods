@@ -106,6 +106,27 @@
       "quantity": "1 plate",
       "ingredients": ["Rice", "Cashews", "Vegetables", "Ghee", "Spices"],
       "nutrition": { "calories": 700, "protein": 14, "fats": 20, "carbs": 95 }
+    },
+    {
+      "id": 11,
+      "name": "Soya Chunk Biryani (Full)",
+      "images": ["vegfood/15.jpg", "vegfood/16.jpg"],
+      "selling_price": 150,
+      "original_price": 200,
+      "quantity": "1 plate",
+      "ingredients": ["Rice", "Cashews", "Soya","Vegetables", "Ghee", "Spices"],
+      "nutrition": { "calories": 700, "protein": 20, "fats": 20, "carbs": 95 }
+    },
+    {
+      "id": 12,
+      "name": "Mixed Veg Biryani (Full)",
+      "images": ["vegfood/17.jpeg", "vegfood/18.jpeg"],
+      "selling_price": 180,
+      "original_price": 220,
+      "quantity": "1 plate",
+      "ingredients": ["Rice", "Cashews", "Vegetables", "Soya","Panner","Ghee", "Spices"],
+      "nutrition": { "calories": 800, "protein": 19, "fats": 25, "carbs": 110 }
     }
   ]
 }
+
